@@ -19,11 +19,11 @@
 }, {
 		"unlockable_id": "63361330877",
 		"snapcode_url": "https://www.snapchat.com/lens/105fa46add9b47b0b8a20e7a36cdeae0?sender_web_id=ecc3b4e7-1160-42dc-9d2a-3b9c3bcbbb11&device_type=desktop&is_copy_url=true",
-		"user_display_name": "down2marsgrl",
+		"user_display_name": "Down2marsgrl",
 		"lens_name": "*11.22.23",
 		"lens_status": "Live",
-		"deeplink": "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=b4b839c3ba9d426da0d67d069e50c9bd&metadata=01",
-		"icon_url": "https://lens-storage.storage.googleapis.com/png/aa03221abfd641d38d12b458d82ff1ee",
+		"deeplink": "https://app.snapchat.com/web/deeplink/snapcode?data=105fa46add9b47b0b8a20e7a36cdeae0&version=1&type=svg",
+		"icon_url": "https://lens-storage.storage.googleapis.com/png/e9a3df2da77d4dee9c0a1945c9cf79ca",
 		"thumbnail_media_url": "https://community-lens.storage.googleapis.com/preview-media/thumbnail/948dd3f2-5c7d-4967-b3ea-cd898e7bcb0c.jpg",
 		"standard_media_url": "https://community-lens.storage.googleapis.com/preview-media/final/948dd3f2-5c7d-4967-b3ea-cd898e7bcb0c.jpg",
 		"obfuscated_user_slug": "s-zTMkHA6zggtdWx8Z6eFA"
